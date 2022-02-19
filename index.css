@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+   
+}
+
+.formulaire{
+    background-color: #cbdddd;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: solid black 5px;
+    margin-top: 300px;
+    
+    
+}
